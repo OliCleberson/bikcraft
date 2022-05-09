@@ -1,0 +1,14 @@
+.bikes{
+  padding-top: 4rem;
+  margin-left: auto;
+margin-right: auto;
+max-width: 1400px;
+}
+
+.bikes-lista{
+display: flex;
+}
+
+.bikes-lista-item{
+  padding: 1.5rem;
+}
