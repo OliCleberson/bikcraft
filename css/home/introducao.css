@@ -8,11 +8,6 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0px 2.5em;
-  box-sizing: border-box;
-  max-width: 75em;
-  padding: 0px 1.25em;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .introducao-conteudo{
